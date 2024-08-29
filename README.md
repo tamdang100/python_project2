@@ -7,4 +7,4 @@ Suppose you are a Data Analyst in an e-wallet company, and you need to analyze t
   
 You need to perform Exploratory Data Analysis (EDA) on the datasets and then conduct data wrangling.
 
-Please see the file '**Project2.ipynb**' along with the CSV datasets above.
+Please see the file '[**Project2.ipynb**](https://github.com/tamdang100/python_project2/blob/main/Project2.ipynb)' along with the CSV datasets above.
